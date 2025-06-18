@@ -19,9 +19,9 @@ This is where I document **solutions with detailed logic and step-by-step explan
 - Feel free to open issues or submit pull requests!
 
 ## 🌟 Let's Connect
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📌 LeetCode: [Your LeetCode Profile]
+- 📧 Email: kulkarniatharva879@gmail.com
+- 💼 LinkedIn: Atharva Kulkarni
+- 📌 LeetCode: Atharva694
 
 ---
 
