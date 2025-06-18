@@ -20,7 +20,7 @@ This is where I document **solutions with detailed logic and step-by-step explan
 
 ## 🌟 Let's Connect
 - 📧 Email: kulkarniatharva879@gmail.com
-- 💼 LinkedIn: Atharva Kulkarni
+- 💼 LinkedIn: [Atharva Kulkarni](https://www.linkedin.com/in/atharva-kulkarni-049750271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 - 📌 LeetCode: Atharva694
 
 ---
